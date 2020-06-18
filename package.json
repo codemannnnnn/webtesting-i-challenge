@@ -1,0 +1,19 @@
+{
+  "name": "webtesting-i-challenge",
+  "version": "1.0.0",
+  "description": "new package json",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {},
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
